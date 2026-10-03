@@ -4,7 +4,9 @@ A small machine-learning project that classifies SMS messages as spam or not spa
 
 ## Dataset
 
-[SMS Spam Collection]([https://archive.ics.uci.edu/dataset/228/sms+spam+collection](https://archive.ics.uci.edu/dataset/228/sms+spam+collection)) from the UCI Machine Learning Repository (5,572 labeled messages; 403 exact duplicates were removed, leaving 5,169).
+[SMS Spam Collection] 
+https://archive.ics.uci.edu/dataset/228/sms+spam+collection
+from the UCI Machine Learning Repository (5,572 labeled messages; 403 exact duplicates were removed, leaving 5,169).
 
 ## Pipeline
 
